@@ -5,23 +5,23 @@ Offerten ska visas upp på ett fiktivt kundmöte 16/2 med Johannes, Mattias och 
 Uppgiften ska lösas själv eller två och två.
 
 Offerten ska innehålla:
-Något grafiskt material t.ex en wireframe (Lo-Fi eller Hi-Fi)
-Tidsuppskattning i timmar
-Pris
-Leveransdatum
+-Något grafiskt material t.ex en wireframe (Lo-Fi eller Hi-Fi)
+-Tidsuppskattning i timmar
+-Pris
+-Leveransdatum
 
 Ta gärna med:
-Utbildning av personal
-Support
-Hosting
-Mood Board
+-Utbildning av personal
+-Support
+-Hosting
+-Mood Board
 
 Applikationen ska fungera så här:
 
-Personalen ska kunna uppdatera meny och priser.
-En kund ska på sin telefon kunna se menyn och beställa till sitt bord. 
-Kunden ska slippa logga in och krångla, samtidigt vill vi att inte vem som helst kan beställa mat till fel bord.
-Orderbekräftelse ska skickas via mail.
-Beställningen ska trigga en ljudsignal i serveringspersonalens dator.
-När kunden lämnar restaurangen ska personalen genom att fråga efter bordsnummer kunna se kundens beställningar under besöket och hur mycket den ska betala.
-Kvitto på beställningen ska kunna skickas via mail från systemet till kunden om den vid betalningen uppger sin mailadress.
+-Personalen ska kunna uppdatera meny och priser.
+-En kund ska på sin telefon kunna se menyn och beställa till sitt bord. 
+-Kunden ska slippa logga in och krångla, samtidigt vill vi att inte vem som helst kan beställa mat till fel bord.
+-Orderbekräftelse ska skickas via mail.
+-Beställningen ska trigga en ljudsignal i serveringspersonalens dator.
+-När kunden lämnar restaurangen ska personalen genom att fråga efter bordsnummer kunna se kundens beställningar under besöket och hur mycket den ska betala.
+-Kvitto på beställningen ska kunna skickas via mail från systemet till kunden om den vid betalningen uppger sin mailadress.
